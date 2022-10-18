@@ -1,0 +1,1 @@
+import move_player  #캐릭터 움직임
