@@ -7,8 +7,8 @@ open_canvas()
 
 mob = load_image('slime_sheet_fix.png')
 
-x = 400
-y = 300
+x = randint(100,700)
+y = randint(100, 500)
 
 def x_dot_y ():
     global x, y
